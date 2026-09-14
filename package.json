@@ -1,0 +1,17 @@
+{
+  "name": "com.matiasmudrik.unity-systems",
+  "version": "1.0.0",
+  "displayName": "Unity Systems",
+  "description": "A small inversion-of-control container with a scene-bootstrap layer, and a virtualised list with recycling and variable row heights built on top of it.",
+  "unity": "2021.3",
+  "keywords": [
+    "dependency injection",
+    "ioc",
+    "di",
+    "architecture"
+  ],
+  "author": {
+    "name": "Matias Mudrik"
+  },
+  "license": "MIT"
+}
